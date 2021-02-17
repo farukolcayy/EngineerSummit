@@ -1670,6 +1670,25 @@ a.back-to-top:hover, a.back-to-top:focus {
   background-image: none;
   background-clip: padding-box;
 }
+#email{
+  text-transform: none;
+}
+
+input#phone {
+  margin-left: -12px;
+}
+input#okul {
+  margin-left: -12px;
+}
+input#okul {
+  margin-left: -12px;
+}
+input#bolum {
+  margin-left: -12px;
+}
+input#number {
+  margin-left: -12px;
+}
 
 .container-form .form-wrapper .form-control:focus {
   color: #212121;
